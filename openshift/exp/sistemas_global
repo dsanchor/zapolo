@@ -1,0 +1,6 @@
+#aqui propiedades especificas de la aplicacion que no sean susceptibles de externalizar en el fichero
+#properties del sistema
+
+aplicacion.filters.captcha.activo=true
+
+
